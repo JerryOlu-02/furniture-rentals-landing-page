@@ -348,7 +348,7 @@ li {
   }
 
   nav[data-visible="false"] {
-    padding: 10%;
+    padding: 10% 10% 0;
     transform: none;
     height: 10vh;
   }
