@@ -535,4 +535,10 @@ li {
   #textarea--field {
     min-width: 100%;
   }
+
+  .submit--btn {
+    height: 2rem;
+  }
+
 }
+
