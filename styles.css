@@ -306,6 +306,7 @@ li {
 
 .submit--btn {
   width: 40%;
+  margin-top: 30px;
 }
 
 #text--field,
@@ -320,7 +321,7 @@ li {
 }
 
 #textarea--field {
-  margin: 30px 0;
+  margin: 30px 0 0;
   min-height: 8rem;
 }
 
